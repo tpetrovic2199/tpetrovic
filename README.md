@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tina Petrovic
 
-🎓 I’m a college graduate with a Bachelor's degree in Information Technology. I'm passionate about technology and eager to kick off my career in IT support, system administration, or networking.
+I’m a college graduate with a Bachelor's degree in Information Technology. I'm passionate about technology and eager to kick off my career in IT support, system administration, or networking.
 
 While I'm just starting out professionally, I've completed several hands-on academic projects and labs that reflect my skills and potential.
 

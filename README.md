@@ -7,19 +7,15 @@ While I'm just starting out professionally, I've completed several hands-on acad
 ---
 
 ## 💼 Skills & Tools
-- Windows & Linux Operating Systems  
-- Basic Networking (IP addressing, subnets, routing)  
-- Troubleshooting hardware/software issues  
-- Active Directory (lab environment)  
-- PowerShell scripting basics  
-- Cisco Packet Tracer  
-- VirtualBox & VMware Workstation
+- Languages: Python, Java 
+- Technical Support: Troubleshooting hardware and software, desktop support
+- Other Skills: Multitasking, problem-solving, active listening, interpersonal communication
 
 ---
 
 ## 🛠️ Projects
 
-### 🖥️ Help Desk Lab (Academic Project)
+### 🖥️ Cybersecurity Chatbot (Academic Project)
 - Simulated an IT support environment using VirtualBox
 - Installed and configured Windows 10 and Windows Server 2019
 - Created users in Active Directory and managed group policies

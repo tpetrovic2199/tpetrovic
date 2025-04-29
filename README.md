@@ -15,11 +15,10 @@ While I'm just starting out professionally, I've completed several hands-on acad
 
 ## 🛠️ Projects
 
-### 🖥️ Cybersecurity Chatbot (Academic Project)
-- Simulated an IT support environment using VirtualBox
-- Installed and configured Windows 10 and Windows Server 2019
-- Created users in Active Directory and managed group policies
-- Practiced troubleshooting common end-user issues
+### 🖥️ AI Cybersecurity Tutoring Chatbot (Academic Project)
+- Developed an AI-powered tutoring chatbot in PyCharm to assist users in learning cybersecurity concepts.
+- Integrated OpenAI's ChatGPT API to simulate interactive tutoring sessions.
+- Designed and implemented a knowledge assessment test to evaluate users' understanding of the material.
 
 ---
 

@@ -21,28 +21,18 @@ While I'm just starting out professionally, I've completed several hands-on acad
 - Created users in Active Directory and managed group policies
 - Practiced troubleshooting common end-user issues
 
-### 🧰 PowerShell User Creation Script (Lab)
-- Basic PowerShell script to create new users in Active Directory
-- Used CSV input for bulk user creation
-- Learned how to apply group memberships and default settings
-
-### 🌐 Network Design in Cisco Packet Tracer
-- Designed a small office network with 3 VLANs
-- Configured static and dynamic routing
-- Practiced subnetting and IP addressing
-
 ---
 
 ## 📜 Certifications
-- 📌 CompTIA A+ (in progress)  
-- 📌 Google IT Support Certificate (Coursera)  
+- 📌 IBM Data Analyst (in progress)  
+- 📌 Google IT Support Certificate (in progress)  
 
 ---
 
 ## 📬 Contact Me
 - Email: tpetrovic2199@gmail.com  
 - LinkedIn: (https://www.linkedin.com/in/tina-petrovic-906bb6296)
-- GitHub: [github.com/alexrivera](https://github.com/yourusername)
+- GitHub: [github.com/tpetrovic2199](https://github.com/tpetrovic2199)
 
 ---
 
